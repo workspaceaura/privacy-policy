@@ -1,25 +1,31 @@
-# Privacy Policy for Aura Workspace
+# Privacy Policy - Aura Workspace
 
-**Last Updated: August 2026**
+This repository hosts the official Privacy Policy for **Aura Workspace** and its integrated internal publishing software.
 
-Aura Workspace ("we", "our", or "us") operates an internal content publishing application integrated with the Pinterest API ("Application"). This Privacy Policy outlines our data handling practices for this integration.
+## 🌐 Live Privacy Policy URL
 
-## 1. Scope and Purpose
-
-This Application is strictly for internal operational use by Aura Workspace. It is used exclusively to automate the scheduling and publishing of media content to our owned Pinterest accounts.
-
-## 2. Information Collection and API Usage
-
-Our Application interacts with the Pinterest API to read board metadata and publish pins. We do **not** collect, store, share, sell, or process any end-user data, personal information, or third-party user data.
-
-## 3. Data Protection and Security
-
-All API credentials and access tokens are securely stored in server-side environment configurations. We do not transfer Pinterest user data to external third parties.
-
-## 4. Contact Us
-
-If you have any questions regarding this policy or our application, please contact us at [github.com/workspaceaura](https://github.com/workspaceaura).
+The canonical privacy policy is published via GitHub Pages at:  
+👉 **[https://workspaceaura.github.io/privacy-policy/](https://workspaceaura.github.io/privacy-policy/)**
 
 ---
 
-© 2026 Aura Workspace. All rights reserved.
+## 📌 Scope & API Usage
+
+This privacy document governs the data handling practices for Aura Workspace integrations, including third-party API connectivity with platforms such as **Pinterest v5 API**.
+
+- **Purpose:** Automation and scheduling of workspace design media assets to official brand channels.
+- **Data Collection:** No end-user or third-party personal data is collected, processed, or stored.
+- **Authentication:** All access tokens and credentials are encrypted and stored in secure server-side environment variables.
+
+---
+
+## 🏗 Repository Structure
+
+- `index.html`: The rendered HTML document served by GitHub Pages.
+- `README.md`: Project description and repository documentation.
+
+---
+
+## ✉️ Contact
+
+For questions regarding this repository or privacy compliance, please reach out via [GitHub WorkspaceAura](https://github.com/workspaceaura).
